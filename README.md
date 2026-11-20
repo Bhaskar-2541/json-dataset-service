@@ -2,6 +2,11 @@
 
 A RESTful Spring Boot microservice that stores schema-less JSON records inside a relational database (MySQL) and supports dynamic runtime **grouping** and **sorting** by any JSON field.
 
+## Live Deployment
+
+- **Swagger UI:** https://json-dataset-service-nbjv.onrender.com/swagger-ui.html
+- **API Base URL:** https://json-dataset-service-nbjv.onrender.com/api/dataset
+
 ## Tech Stack
 
 - **Java 21** (Records, Pattern Matching)
